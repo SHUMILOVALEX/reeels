@@ -1,0 +1,45 @@
+{
+  "fps": 30,
+  "segments": [
+    {
+      "source": "IMG_2976.MOV",
+      "in": 0,
+      "out": 17.6,
+      "purpose": "Полный диалог по тексту пользователя"
+    },
+    {
+      "source": "IMG_2978.MOV",
+      "in": 3.4,
+      "out": 6.1,
+      "purpose": "Выезд из-за стены"
+    },
+    {
+      "source": "IMG_2978.MOV",
+      "in": 8,
+      "out": 9.2,
+      "purpose": "Поиск у дивана"
+    },
+    {
+      "source": "IMG_2978.MOV",
+      "in": 19,
+      "out": 20.2,
+      "purpose": "Поиск под пуфом"
+    },
+    {
+      "source": "IMG_2978.MOV",
+      "in": 26.2,
+      "out": 27.4,
+      "purpose": "Поиск у стены"
+    },
+    {
+      "source": "IMG_2978.MOV",
+      "in": 35.4,
+      "out": 37.4,
+      "purpose": "Предъявление футболки"
+    }
+  ],
+  "music_entry": 18.2,
+  "status": "review_required",
+  "subtitle_status": "user_text_confirmed_timing_estimated",
+  "music_status": "Kai Angel — Andy Warhol: awaiting_audio"
+}

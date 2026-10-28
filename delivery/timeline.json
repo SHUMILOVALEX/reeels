@@ -1,0 +1,60 @@
+{
+  "duration": 25.9,
+  "music_entry": 18.2,
+  "edit": [
+    {
+      "source": "IMG_2976.MOV",
+      "in": 0,
+      "out": 17.6,
+      "purpose": "Весь диалог сохранён до подтверждения расшифровки, чтобы не обрезать слова",
+      "timeline_in": 0,
+      "timeline_out": 17.6,
+      "speed": 1
+    },
+    {
+      "source": "IMG_2978.MOV",
+      "in": 3.4,
+      "out": 6.1,
+      "purpose": "Выезд из-за стены",
+      "timeline_in": 17.6,
+      "timeline_out": 20.3,
+      "speed": 1
+    },
+    {
+      "source": "IMG_2978.MOV",
+      "in": 8,
+      "out": 9.2,
+      "purpose": "Поиск у дивана",
+      "timeline_in": 20.3,
+      "timeline_out": 21.5,
+      "speed": 1
+    },
+    {
+      "source": "IMG_2978.MOV",
+      "in": 19,
+      "out": 20.2,
+      "purpose": "Поиск под пуфом",
+      "timeline_in": 21.5,
+      "timeline_out": 22.7,
+      "speed": 1
+    },
+    {
+      "source": "IMG_2978.MOV",
+      "in": 26.2,
+      "out": 27.4,
+      "purpose": "Поиск у стены",
+      "timeline_in": 22.7,
+      "timeline_out": 23.9,
+      "speed": 1
+    },
+    {
+      "source": "IMG_2978.MOV",
+      "in": 35.4,
+      "out": 37.4,
+      "purpose": "Предъявление футболки",
+      "timeline_in": 23.9,
+      "timeline_out": 25.9,
+      "speed": 1
+    }
+  ]
+}
