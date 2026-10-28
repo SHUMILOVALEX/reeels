@@ -41,5 +41,17 @@
   "music_entry": 18.2,
   "status": "review_required",
   "subtitle_status": "user_text_confirmed_timing_estimated",
-  "music_status": "Kai Angel — Andy Warhol: awaiting_audio"
+  "music_status": "user_supplied_audio_mixed",
+  "music": {
+    "artist": "Kai Angel",
+    "title": "Andy Warhol",
+    "source_file": "Kai_Angel_Andy_warhol.mp3",
+    "source_in": 38.0,
+    "source_out": 45.7,
+    "timeline_in": 18.2,
+    "timeline_out": 25.9,
+    "fade_out": 0.25,
+    "location_method": "local ASR; approximate phrase onset, no listening verification",
+    "source_sha256": "be9bfc1b7133dc20ab363f4b29e3c890bd489e9d2f6bea08c166c47f784dac04"
+  }
 }

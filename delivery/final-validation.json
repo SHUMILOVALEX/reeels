@@ -1,0 +1,21 @@
+[
+  {
+    "file": "sber_merch_reels_final.mp4",
+    "duration": "25.900000",
+    "frames": "777",
+    "audio_measurement": {
+      "input_i": "-15.24",
+      "input_tp": "-1.48",
+      "input_lra": "4.40",
+      "input_thresh": "-25.44",
+      "output_i": "-14.85",
+      "output_tp": "-1.00",
+      "output_lra": "4.80",
+      "output_thresh": "-25.06",
+      "normalization_type": "dynamic",
+      "target_offset": "-0.15"
+    },
+    "black_events": [],
+    "complete_decode": "passed"
+  }
+]
