@@ -1,0 +1,40 @@
+[
+  {
+    "file": "sber_merch_reels_captioned_review.mp4",
+    "duration": "25.900000",
+    "frames": "777",
+    "audio_measurement": {
+      "input_i": "-19.33",
+      "input_tp": "-1.50",
+      "input_lra": "7.90",
+      "input_thresh": "-29.49",
+      "output_i": "-16.72",
+      "output_tp": "-1.00",
+      "output_lra": "4.50",
+      "output_thresh": "-26.90",
+      "normalization_type": "dynamic",
+      "target_offset": "1.72"
+    },
+    "black_events": [],
+    "complete_decode": "passed"
+  },
+  {
+    "file": "sber_merch_reels_clean.mp4",
+    "duration": "25.900000",
+    "frames": "777",
+    "audio_measurement": {
+      "input_i": "-19.33",
+      "input_tp": "-1.50",
+      "input_lra": "7.90",
+      "input_thresh": "-29.49",
+      "output_i": "-16.72",
+      "output_tp": "-1.00",
+      "output_lra": "4.50",
+      "output_thresh": "-26.90",
+      "normalization_type": "dynamic",
+      "target_offset": "1.72"
+    },
+    "black_events": [],
+    "complete_decode": "passed"
+  }
+]
